@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "playdate",
+      "request": "launch",
+      "name": "Debug (Simulator)",
+      "program": "${workspaceRoot}/Source/main.lua",
+      "preLaunchTask": "Build and Run",
+    }
+  ]
+}
